@@ -14,7 +14,7 @@
  ## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/amya-watkins-4b1025193/">
-<img src="images/linkedin.png" alt="alternate text"
+<img src="Images/linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a>
 
