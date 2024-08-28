@@ -1,4 +1,4 @@
-### Hi there, I'm Amya! I am a sophomore at Digital Media Software Engineering 👋
+### Hi there, I'm Amya! I am a Junior at Digital Media Software Engineering 👋
 
 
 - 🔭 I’m currently working on a Personal Website 
@@ -8,7 +8,7 @@
 - 💬 Ask me about my mentorship 
 - 📫 How to reach me: watkia21@ferris.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy Drawing and Painting 
+- ⚡ Fun fact: I enjoy working out and drawing
 
 
  ## 🤝 Connect with me
