@@ -1,4 +1,4 @@
-### Hi there, I'm Amya! I am a Junior at Digital Media Software Engineering 👋
+### Hi there, I'm Amya! I am a Senior at Digital Media Software Engineering 👋
 
 
 - 🔭 I’m currently working on a Personal Website 
